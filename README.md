@@ -1,6 +1,6 @@
 # 🎙️ WalkieTalkie
 
-**Record thoughts on the go. Think out loud. Let your AI remember.**
+**Record voice notes on the go. Think out loud. Let your AI remember.**
 
 A local-first voice journaling server that transcribes your iPhone recordings using [Whisper](https://github.com/openai/whisper) and saves them directly to your AI memory files — privately, offline, and free.
 
