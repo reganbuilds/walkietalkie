@@ -1,6 +1,6 @@
 # 🎙️ WalkieTalkie
 
-**Record your walks. Think out loud. Let your AI remember.**
+**Record thoughts on the go. Think out loud. Let your AI remember.**
 
 A local-first voice journaling server that transcribes your iPhone recordings using [Whisper](https://github.com/openai/whisper) and saves them directly to your AI memory files — privately, offline, and free.
 
@@ -10,7 +10,7 @@ A local-first voice journaling server that transcribes your iPhone recordings us
 
 ## How it works
 
-1. **Record** a voice memo on your iPhone during a walk
+1. **Record** a voice memo on your iPhone while you're on the go
 2. **Send** the audio to your Mac via iOS Shortcut (one tap)
 3. **Whisper** transcribes it locally on your machine
 4. **Entry saved** to your daily memory file, ready for your AI to read
@@ -120,7 +120,7 @@ Each entry is appended to a daily Markdown file:
 
 ## Built for OpenClaw
 
-WalkieTalkie writes to the same memory format used by [OpenClaw](https://openclaw.ai) — so your AI assistant automatically has context from your walks in every session. But it works with any system that reads Markdown files.
+WalkieTalkie writes to the same memory format used by [OpenClaw](https://openclaw.ai) — so your AI assistant automatically has context from thoughts you capture on the go in every session. But it works with any system that reads Markdown files.
 
 ---
 

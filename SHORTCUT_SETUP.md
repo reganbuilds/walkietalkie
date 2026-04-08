@@ -97,7 +97,7 @@ If you want the raw response instead, just use **Quick Look** or **Show Content*
 ## Suggested shortcut names
 
 - WalkieTalkie
-- Journal Walk
+- Capture on the Go
 - Voice to Memory
 - Walk Notes
 
@@ -197,4 +197,4 @@ By default, WalkieTalkie writes to:
 ~/.openclaw/workspace/memory
 ```
 
-So your AI can read your walk notes automatically in future sessions.
+So your AI can read notes you capture on the go automatically in future sessions.

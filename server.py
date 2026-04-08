@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 WalkieTalkie — Local Voice Journal Server
-Record your walks, think out loud, transcribe privately.
+Record thoughts on the go, think out loud, transcribe privately.
 
 Receives audio from iPhone → transcribes with Whisper → appends to daily memory.
 Runs at http://[mac-mini-ip]:5050
